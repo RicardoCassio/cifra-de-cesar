@@ -6,8 +6,15 @@ Normal: a ligeira raposa marrom saltou sobre o cachorro cansado
 Cifrado: d oljhlud udsrvd pduurp vdowrx vreuh r fdfkruur fdqvdgr
 
 --------------------------
-Bom, estou iniciando meu aprendizado em Python, pretendo ir postando meus projetos aqui no GitHub. Projetos pequenos como esse ate projetos maiores, de acordo minha evolução.
+# Pré-requisitos
+Todas as bobliotecas utilizadas no projeto, normalmente já vem incluída no python, mas caso sua instalação seja "anormal", instale as seguintes bibliotecas:
+- hashlib
+- requests
+- json
 
+Detalhe, esse código não vai funcionar porque é necessario o endereço correto da API do Codenation
+
+# Sobre
 Esse script simples em Python decifra uma criptografia de Cesar com base na quantidade de casas passadas. Esse script foi utilizado em um desafio da codenation "http://codenation.dev/", onde é passado um Json por API com o seguinte formato:
 
 
